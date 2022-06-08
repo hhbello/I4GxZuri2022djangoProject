@@ -1,2 +1,3 @@
 # I4GxZuri2022djangoProject
-Django project for  Training 2022
+
+My Django tasks for I4GxZuri Training 2022
